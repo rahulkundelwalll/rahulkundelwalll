@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkundelwalll" alt="rahulkundelwalll" /></a> </p>
 
+- 🌱 I’m currently learning **AWS**
+
+- 💬 Ask me about **ReactJS, Nodejs , SQL**
+
+- 📫 How to reach me **pooransherrahul@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-kundelwalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kundelwalll" height="30" width="40" /></a>
